@@ -1,0 +1,7 @@
+{
+    "name": "navigation-menu-component",
+    "version": "0.0.0",
+    "private": true,
+    "main": "./NavigationMenu.js"
+}
+  

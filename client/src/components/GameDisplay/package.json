@@ -1,0 +1,7 @@
+{
+    "name": "game-display-component",
+    "version": "0.0.0",
+    "private": true,
+    "main": "./GameDisplay.js"
+  }
+  
